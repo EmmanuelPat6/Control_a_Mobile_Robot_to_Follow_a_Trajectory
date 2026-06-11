@@ -1,6 +1,5 @@
-# HOMEWORK_4 PATELLARO EMMANUEL P38000239 #
 # 🤖📱 Control a Mobile Robot to Follow a Trajectory 🖥️🎯 #
-This README file will show the instructions on how to build and run the Homework_4 Project 
+This README file will show the instructions on how to build and run the fourth homework implemented for the course of Robotics Lab taught by Prof. Mario Selvaggio.  
 
 ## Features 🪐 ##
 - Computer Vision 💻👁️
